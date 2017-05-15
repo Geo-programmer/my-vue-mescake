@@ -1,0 +1,911 @@
+{
+    "ad": [
+        {
+            "name": "下午茶",
+            "imgSrc": "/static/tea.jpg",
+            "iconSrc": "/static/teaHover.png"
+        },
+        {
+            "name": "时令",
+            "imgSrc": "/static/season.jpg",
+            "iconSrc": "/static/season.png"
+        },
+        {
+            "name": "咖啡",
+            "imgSrc": "/static/coffee.jpg",
+            "iconSrc": "/static/coffee.png"
+        },
+        {
+            "name": "周边品",
+            "imgSrc": "/static/nearby_food.jpg",
+            "iconSrc": "/static/nearby.png"
+        },
+        {
+            "name": "每实专题",
+            "imgSrc": "/static/mes_ar.jpg",
+            "iconSrc": "/static/time_ms.png"
+        }
+    ],
+    "goods": [
+        {
+            "name": "情感系列",
+            "EnglishName": "Emotional Series",
+            "backgroudImg": "/static/index/classify_image01.jpg",
+            "isShow": true,
+            "goodsforS": [
+                {
+                    "id": 136,
+                    "class": 0,
+                    "goodName": "致爱-沉醉",
+                    "description": "独一无二 让爱 淋漓尽致",
+                    "type": "慕斯",
+                    "raw": "乳脂奶油、西柚、玛姆香槟、陈皮、马斯卡彭、无花果",
+                    "flavor": "含酒",
+                    "img": "/static/goodlist/136.jpg",
+                    "Bigimg": "/static/gooddetail/greater/content.jpg",
+                    "imgfortitle": "/static/gooddetail/greater/136.jpg",
+                    "imgforDes": ["/static/gooddetail/greater/inebriation01.jpg",
+                     "/static/gooddetail/greater/inebriation02.jpg", "/static/gooddetail/greater/inebriation03.jpg", "/static/gooddetail/greater/inebriation04.jpg", "/static/gooddetail/greater/inebriation05.jpg"],
+                    "choices": [
+                        {
+                            "size": "一套",
+                            "peopleNumber": "适合3-5人食用",
+                            "freeItem": "含免费餐具2份",
+                            "price": 1314
+                        }
+                    ]
+                },
+                {
+                    "id": 135,
+                    "class": 0,
+                    "goodName": "致爱-钟情",
+                    "description": "独一无二 让爱 淋漓尽致",
+                    "type": "慕斯",
+                    "raw": "食用玫瑰花、乳脂奶油、桃红甜酒、洛神花、马斯卡彭",
+                    "flavor": "含酒",
+                    "img": "/static/goodlist/135.jpg",
+                    "Bigimg": "/static/gooddetail/greater/shopmsg_02.jpg",
+                    "imgfortitle": "/static/gooddetail/greater/135.jpg",
+                    "imgforDes": ["/static/gooddetail/greater/shopmsg_03.jpg", "/static/gooddetail/greater/shopmsg_04.jpg", "/static/gooddetail/greater/shopmsg_05.jpg", "/static/gooddetail/greater/shopmsg_06.jpg", "/static/gooddetail/greater/shopmsg_07.jpg"],
+                    "choices": [
+                        {
+                            "size": "一套",
+                            "peopleNumber": "适合3-5人食用",
+                            "freeItem": "含免费餐具2份",
+                            "price": 999
+                        }
+                    ]
+                },
+                {
+                    "id": 26,
+                    "class": 1,
+                    "goodName": "许愿",
+                    "description": "爱的期许",
+                    "type": "奶油",
+                    "raw": "扁桃仁、乳脂奶油",
+                    "flavor": "不含酒",
+                    "img": "/static/goodlist/26.jpg",
+                    "imgfortitle": "/static/gooddetail/26.jpg",
+                    "imgforDes": ["/static/gooddetail/xuyuan_1.jpg", "/static/gooddetail/xuyuan_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 298
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 458
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 735
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "极致系列",
+            "EnglishName": "Ultimate Series",
+            "backgroudImg": "/static/index/classify_image02.jpg",
+            "isShow": true,
+            "goodsforS": [
+                {
+                    "id": 124,
+                    "class": 1,
+                    "goodName": "碾茶金时",
+                    "description": "拾一颗茶心",
+                    "type": "慕斯",
+                    "raw": "有机抹茶、赤小豆、乳脂奶油",
+                    "flavor": "不含酒",
+                    "img": "/static/goodlist/124.jpg",
+                    "imgfortitle": "/static/gooddetail/124.jpg",
+                    "imgforDes": ["/static/gooddetail/nianchajinshi_1.jpg", "/static/gooddetail/nianchajinshi_2.jpg", "/static/gooddetail/nianchajinshi_3.jpg"],
+                    "choices": [
+                        {
+                            "size": "1.0磅：13cm*13cm",
+                            "apply": "适合4-5人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 228
+                        },
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 368
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 588
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 928
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "class": 1,
+                    "goodName": "阿尔卑斯",
+                    "description": "温暖的封存",
+                    "type": "慕斯",
+                    "raw": "谷物脆、巧克力、芝士、乳脂奶油",
+                    "flavor": "不含酒",
+                    "img": "/static/goodlist/19.jpg",
+                    "imgfortitle": "/static/gooddetail/19.jpg",
+                    "imgforDes": ["/static/gooddetail/aerbeisi_01.jpg", "/static/gooddetail/aerbeisi_02.jpg"],
+                    "choices": [
+                        {
+                            "size": "1.0磅：13cm*13cm",
+                            "apply": "适合4-5人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 228
+                        },
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 368
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 588
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 928
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "class": 1,
+                    "goodName": "爱的箴言",
+                    "description": "伟大的感动都在不言之中",
+                    "type": "芝士",
+                    "raw": "牛油果、芝士、开心果",
+                    "flavor": "不含酒",
+                    "img": "/static/goodlist/9.jpg",
+                    "imgfortitle": "/static/gooddetail/9.jpg",
+                    "imgforDes": ["/static/gooddetail/zhenyan_1.jpg", "/static/gooddetail/zhenyan_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "1.0磅：13cm*13cm",
+                            "apply": "适合4-5人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 188
+                        },
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 298
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 458
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 735
+                        }
+                    ]
+                },
+                {
+                    "id": 33,
+                    "class": 1,
+                    "goodName": "歌剧院",
+                    "description": "奏响半世纪的舌尖乐章 回溯50年前的法式经典",
+                    "type": "奶油",
+                    "raw": "杏仁、巧克力、咖啡酒、咖啡、乳脂奶油、核桃",
+                    "flavor": "含酒",
+                    "img": "/static/goodlist/33.jpg",
+                    "imgfortitle": "/static/gooddetail/33.jpg",
+                    "imgforDes": ["/static/gooddetail/gejuyuan_1.jpg", "/static/gooddetail/gejuyuan_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "1.0磅：13cm*13cm",
+                            "apply": "适合4-5人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 188
+                        },
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 298
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 458
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 735
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "趣味系列",
+            "EnglishName": "Interesting Series",
+            "backgroudImg": "/static/index/classify_image03.jpg",
+            "isShow": true,
+            "goodsforS": [
+                {
+                    "id": 32,
+                    "class": 1,
+                    "goodName": "LUCKY MAN",
+                    "description": "随机播放特别的味道",
+                    "type": "奶油",
+                    "raw": "巧克力、乳脂奶油、芥末、松子",
+                    "flavor": "不含酒",
+                    "img": "/static/goodlist/32.jpg",
+                    "imgfortitle": "/static/gooddetail/32.jpg",
+                    "imgforDes": ["/static/gooddetail/luckman_1.jpg", "/static/gooddetail/luckman_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "1.0磅：13cm*13cm",
+                            "apply": "适合4-5人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 188
+                        },
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 298
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 458
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 735
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "class": 1,
+                    "goodName": "拔萝卜",
+                    "description": "花开... 陶醉时光 拔起小萝卜 分享大欢乐",
+                    "type": "奶油",
+                    "raw": "胡萝卜、榛子、乳脂奶油、菠菜",
+                    "flavor": "不含酒",
+                    "img": "/static/goodlist/10.jpg",
+                    "imgfortitle": "/static/gooddetail/10.jpg",
+                    "imgforDes": ["/static/gooddetail/boluoo_1.jpg", "/static/gooddetail/boluoo_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "1.0磅：13cm*13cm",
+                            "apply": "适合4-5人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 188
+                        },
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 298
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 458
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 735
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "class": 1,
+                    "goodName": "小爪",
+                    "description": "两个人 一辈子让人发狂的小可爱",
+                    "type": "慕斯",
+                    "raw": "乳脂奶油、白巧克力、树莓、黄桃",
+                    "flavor": "不含酒",
+                    "img": "/static/goodlist/22.jpg",
+                    "imgfortitle": "/static/gooddetail/22.jpg",
+                    "imgforDes": ["/static/gooddetail/xiaozhua_1.jpg", "/static/gooddetail/xiaozhua_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "一套：10cm*10cm",
+                            "apply": "适合2-3人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 188
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "口味系列",
+            "EnglishName": "Taste Series",
+            "backgroudImg": "/static/index/classify_image04.jpg",
+            "isShow": true,
+            "goodsforS": [
+                {
+                    "id": 11,
+                    "class": 1,
+                    "goodName": "冰珀茉莉",
+                    "description": "感受冷艳下的独特魅力",
+                    "type": "慕斯",
+                    "raw": "茉莉、荔枝、乳脂奶油",
+                    "flavor": "含酒",
+                    "img": "/static/goodlist/11.jpg",
+                    "imgfortitle": "/static/gooddetail/11.jpg",
+                    "imgforDes": ["/static/gooddetail/bingbo_1.jpg", "/static/gooddetail/bingbo_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "1.0磅：13cm*13cm",
+                            "apply": "适合4-5人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 228
+                        },
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 368
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 588
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 928
+                        }
+                    ]
+                },
+                {
+                    "id": 83,
+                    "class": 1,
+                    "goodName": "最佳拍档",
+                    "description": "天生的灵魂伴侣",
+                    "type": "慕斯",
+                    "raw": "芒果、西番莲",
+                    "flavor": "不含酒",
+                    "img": "/static/goodlist/83.jpg",
+                    "imgfortitle": "/static/gooddetail/83.jpg",
+                    "imgforDes": ["/static/gooddetail/paidang_1.jpg", "/static/gooddetail/paidang_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "1.0磅：13cm*13cm",
+                            "apply": "适合4-5人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 188
+                        },
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 298
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 458
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 735
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "class": 1,
+                    "goodName": "千与千薰",
+                    "description": "在安安静静中俘获你的心",
+                    "type": "奶油",
+                    "raw": "紫薯、黑橄榄、芝士、乳脂奶油、白葡萄酒",
+                    "flavor": "含酒",
+                    "img": "/static/goodlist/15.jpg",
+                    "imgfortitle": "/static/gooddetail/15.jpg",
+                    "imgforDes": ["/static/gooddetail/qianxun_1.jpg", "/static/gooddetail/qianxun_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "1.0磅：13cm*13cm",
+                            "apply": "适合4-5人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 188
+                        },
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 298
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 458
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 735
+                        }
+                    ]
+                },
+                {
+                    "id": 38,
+                    "class": 1,
+                    "goodName": "原味拿破仑",
+                    "description": "雕刻美味的年轮 体会巴黎独有的百万层酥脆",
+                    "type": "酥皮",
+                    "raw": "乳脂奶油、卡仕达酱、黄油",
+                    "flavor": "不含酒",
+                    "img": "/static/goodlist/38.jpg",
+                    "imgfortitle": "/static/gooddetail/15.jpg",
+                    "imgforDes": ["/static/gooddetail/lapolun_1.jpg", "/static/gooddetail/lapolun_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "1.0磅：13cm*13cm",
+                            "apply": "适合4-5人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 188
+                        },
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 298
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 458
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 735
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "class": 1,
+                    "goodName": "英雄本色",
+                    "description": "戒不掉的男人味",
+                    "type": "奶油",
+                    "raw": "巧克力、葡萄干、黑橄榄、黑朗姆酒、乳脂奶油、核桃",
+                    "flavor": "含酒",
+                    "img": "/static/goodlist/21.jpg",
+                    "imgfortitle": "/static/gooddetail/21.jpg",
+                    "imgforDes": ["/static/gooddetail/yingxiong_1.jpg", "/static/gooddetail/yingxiong_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "1.0磅：13cm*13cm",
+                            "apply": "适合4-5人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 188
+                        },
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 298
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 458
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 735
+                        }
+                    ]
+                },
+                {
+                    "id": 36,
+                    "class": 1,
+                    "goodName": "Happy Hour",
+                    "description": "一起分享相聚的快乐时分",
+                    "type": "奶油",
+                    "raw": "乳脂奶油、草莓、奇异果、凤梨、芒果、蓝莓、西柚、 火龙果",
+                    "flavor": "不含酒",
+                    "img": "/static/goodlist/36.jpg",
+                    "imgfortitle": "/static/gooddetail/36.jpg",
+                    "imgforDes": ["/static/gooddetail/happy-hour_01.jpg", "/static/gooddetail/happy-hour_02.jpg"],
+                    "choices":  [
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 298
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 458
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 735
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "class": 1,
+                    "goodName": "黑色堡垒",
+                    "description": "8小时的疲惫 一针鸡血",
+                    "type": "奶油",
+                    "raw": "巧克力、榛子、乳脂奶油",
+                    "flavor": "不含酒",
+                    "img": "/static/goodlist/8.jpg",
+                    "imgfortitle": "/static/gooddetail/8.jpg",
+                    "imgforDes": ["/static/gooddetail/baolei_1.jpg", "/static/gooddetail/baolei_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "1.0磅：13cm*13cm",
+                            "apply": "适合4-5人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 188
+                        },
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 298
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 458
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 735
+                        }
+                    ]
+                },
+                {
+                    "id": 37,
+                    "class": 1,
+                    "goodName": "布朗尼",
+                    "description": "不可思议的味觉碰撞 体会绵软与松脆的美妙结合",
+                    "type": "奶油",
+                    "raw": "巧克力、葡萄干、黑橄榄、黑朗姆酒、乳脂奶油、核桃",
+                    "flavor": "含酒",
+                    "img": "/static/goodlist/37.jpg",
+                    "imgfortitle": "/static/gooddetail/37.jpg",
+                    "imgforDes": ["/static/gooddetail/bulangli_1.jpg", "/static/gooddetail/bulangli_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "1.0磅：13cm*13cm",
+                            "apply": "适合4-5人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 188
+                        },
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 298
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 458
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 735
+                        }
+                    ]
+                },
+                {
+                    "id": 87,
+                    "class": 1,
+                    "goodName": "君子",
+                    "description": "君子和而不同",
+                    "type": "奶油",
+                    "raw": "乳脂奶油、榴莲",
+                    "flavor": "不含酒",
+                    "img": "/static/goodlist/87.jpg",
+                    "imgfortitle": "/static/gooddetail/87.jpg",
+                    "imgforDes": ["/static/gooddetail/junzi_1.jpg", "/static/gooddetail/junzi_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "1.0磅：13cm*13cm",
+                            "apply": "适合4-5人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 188
+                        },
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 298
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 458
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 735
+                        }
+                    ]
+                },
+                {
+                    "id": 125,
+                    "class": 1,
+                    "goodName": "树莓夏朵",
+                    "description": "寻找那一颗颗酸甜的法国树莓",
+                    "type": "慕斯",
+                    "raw": "树莓、白巧克力、伏特加、乳脂奶油",
+                    "flavor": "含酒",
+                    "img": "/static/goodlist/125.jpg",
+                    "imgfortitle": "/static/gooddetail/125.jpg",
+                    "imgforDes": ["/static/gooddetail/shumei.jpg"],
+                    "choices": [
+                        {
+                            "size": "1.0磅：13cm*13cm",
+                            "apply": "适合4-5人食用",
+                            "freeItem": "含免费餐具5份",
+                            "price": 188
+                        },
+                        {
+                            "size": "2.0磅：17cm*17cm",
+                            "apply": "适合7-8人食用",
+                            "freeItem": "含免费餐具10份",
+                            "price": 298
+                        },
+                        {
+                            "size": "3.0磅：23cm*23cm",
+                            "apply": "适合11-12人食用",
+                            "freeItem": "含免费餐具15份",
+                            "price": 458
+                        },
+                        {
+                            "size": "5.0磅：30cm*30cm",
+                            "apply": "适合15-20人食用",
+                            "freeItem": "含免费餐具20份",
+                            "price": 735
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "周边品",
+            "EnglishName": "Nearby Series",
+            "backgroudImg": "",
+            "isShow": false,
+            "goodsforS": [
+                {
+                    "id": 92,
+                    "class": 2,
+                    "goodName": "小瓷猫绿植",
+                    "description": "",
+                    "type": "",
+                    "raw": "",
+                    "flavor": "",
+                    "img": "/static/goodlist/92.jpg",
+                    "imgfortitle": "/static/gooddetail/hobby/92.jpg",
+                    "imgforDes": ["/static/gooddetail/hobby/xiaochi_1.jpg", "/static/gooddetail/hobby/xiaochi_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "一套",
+                            "peopleNumber": "",
+                            "freeItem": "",
+                            "price": 58
+                        }
+                    ]
+                },
+                {
+                    "id": 119,
+                    "class": 2,
+                    "goodName": "花环-释放青春",
+                    "description": "",
+                    "type": "",
+                    "raw": "",
+                    "flavor": "",
+                    "img": "/static/goodlist/119.jpg",
+                    "imgfortitle": "/static/gooddetail/hobby/119.jpg",
+                    "imgforDes": ["/static/gooddetail/hobby/huahuan_1.jpg", "/static/gooddetail/hobby/huahuan_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "一个",
+                            "peopleNumber": "",
+                            "freeItem": "",
+                            "price": 108
+                        }
+                    ]
+                },
+                {
+                    "id": 117,
+                    "class": 2,
+                    "goodName": "卡通眼镜",
+                    "description": "",
+                    "type": "",
+                    "raw": "",
+                    "flavor": "",
+                    "img": "/static/goodlist/117.jpg",
+                    "imgfortitle": "/static/gooddetail/hobby/117.jpg",
+                    "imgforDes": ["/static/gooddetail/hobby/yanjing_1.jpg", "/static/gooddetail/hobby/yanjing_2.jpg"],
+                    "choices": [
+                        {
+                            "size": "一套",
+                            "peopleNumber": "",
+                            "freeItem": "",
+                            "price": 38
+                        }
+                    ]
+                },
+                {
+                    "id": 61,
+                    "class": 2,
+                    "goodName": "大蜡烛",
+                    "description": "",
+                    "type": "",
+                    "raw": "",
+                    "flavor": "",
+                    "img": "/static/goodlist/61.jpg",
+                    "imgfortitle": "/static/gooddetail/hobby/61.jpg",
+                    "imgforDes": ["/static/gooddetail/hobby/lazhu.jpg"],
+                    "choices": [
+                        {
+                            "size": "红",
+                            "peopleNumber": "",
+                            "freeItem": "",
+                            "price": 5
+                        },
+                        {
+                            "size": "白",
+                            "peopleNumber": "",
+                            "freeItem": "",
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 67,
+                    "class": 1,
+                    "goodName": "数字蜡烛",
+                    "description": "",
+                    "type": "",
+                    "raw": "",
+                    "flavor": "",
+                    "img": "/static/goodlist/67.jpg",
+                    "imgfortitle": "/static/gooddetail/hobby/67.jpg",
+                    "imgforDes": ["/static/gooddetail/hobby/shuzi.jpg"],
+                    "choices": [
+                         {
+                            "Number": 0,
+                            "price": 5
+                        },
+                        {
+                            "Number": 1,
+                            "price": 5
+                        },
+                        {
+                            "Number": 2,
+                            "price": 5
+                        },
+                        {
+                            "Number": 3,
+                            "price": 5
+                        },
+                        {
+                            "Number": 4,
+                            "price": 5
+                        },
+                        {
+                            "Number": 5,
+                            "price": 5
+                        },
+                        {
+                            "Number": 6,
+                            "price": 5
+                        },
+                        {
+                            "Number": 7,
+                            "price": 5
+                        },
+                        {
+                            "Number": 8,
+                            "price": 5
+                        },
+                        {
+                            "Number": 9,
+                            "price": 5
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "user": {
+        "loginCode": 1
+    }
+}
