@@ -8,6 +8,10 @@ Vue + Vue-router + Vuex
 
 Pictures are copyed from the web by using chrome web tool. The 'data.json' file is a mock database file by myself
 
+### to login in
+
+input 11 digits (0-9) as username and any letter(or number) as password to login in
+
 ## Build Setup
 
 ``` bash
