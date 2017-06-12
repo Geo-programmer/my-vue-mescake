@@ -20,7 +20,7 @@ npm install
 
 # 在localhost:8080启动本地服务器
 npm run dev
-```bash
+```
 
 ## 展示页面
 
