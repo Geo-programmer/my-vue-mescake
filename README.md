@@ -20,5 +20,8 @@ npm install
 
 # 在localhost:8080启动本地服务器
 npm run dev
+```bash
 
+## 展示页面
 
+![image](https://github.com/rechenai/my-vue-mescake/blob/master/Gif/dome.gif)
