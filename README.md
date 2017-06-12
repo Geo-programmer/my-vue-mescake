@@ -1,30 +1,24 @@
 # mymescake
 
-> mymescake web
+> PC端在线蛋糕商城单页面应用
 
-## Build Setup
+仿制于在线蛋糕商城[mescake](http://www.mescake.com).
+
+Vue + Vue-router + Vuex
+
+图片来源于[mescake](http://www.mescake.com)网站，数据来自本地服务器上data.json文件
+
+### 登录
+
+只需输入任意11位数字作为手机号码和任意数字或字母作为密码即可登录
+
+## 安装
 
 ``` bash
-# install dependencies
+# 安装本地依赖包
 npm install
 
-# serve with hot reload at localhost:8080
+# 在localhost:8080启动本地服务器
 npm run dev
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
