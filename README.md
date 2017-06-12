@@ -1,26 +1,24 @@
 # mymescake
 
-> mymescake web
+> PC端在线蛋糕商城单页面应用
 
-A SPA maked by mocking  [mescake](http://www.mescake.com). 
+仿制于在线蛋糕商城[mescake](http://www.mescake.com).
 
 Vue + Vue-router + Vuex
 
-Pictures are copyed from the web by using chrome web tool. The 'data.json' file is a mock database file by myself
+图片来源于[mescake](http://www.mescake.com)网站，数据来自本地服务器上data.json文件
 
-### to login in
+### 登录
 
-input 11 digits (0-9) as username and any letter(or number) as password to login in
+只需输入任意11位数字作为手机号码和任意数字或字母作为密码即可登录
 
-## Build Setup
+## 安装
 
 ``` bash
-# install dependencies
+# 安装本地依赖包
 npm install
 
-# serve with hot reload at localhost:8080
+# 在localhost:8080启动本地服务器
 npm run dev
 
-# build for production with minification
-npm run build
 
